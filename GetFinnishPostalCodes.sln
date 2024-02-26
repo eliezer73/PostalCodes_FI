@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+# SPDX-License-Identifier: EUPL-1.2+
+#
+# Copyleft © 2024 Eliezer - mailto:eliezer@programmer.net?subject=PostalCodes_FI
+# https://github.com/eliezer73/PostalCodes_FI
+# Licensed under the EUPL: https://joinup.ec.europa.eu/licence/european-union-public-licence-version-12-or-later-eupl
+#
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetFinnishPostalCodes", "GetFinnishPostalCodes\GetFinnishPostalCodes.csproj", "{8843D64C-949D-451A-9850-5D131FF8FA38}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostalCodes_FI", "PostalCodes_FI\PostalCodes_FI.csproj", "{935C3C44-B08C-43AB-BE5B-8C0EB9283150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8843D64C-949D-451A-9850-5D131FF8FA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8843D64C-949D-451A-9850-5D131FF8FA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8843D64C-949D-451A-9850-5D131FF8FA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8843D64C-949D-451A-9850-5D131FF8FA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935C3C44-B08C-43AB-BE5B-8C0EB9283150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935C3C44-B08C-43AB-BE5B-8C0EB9283150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935C3C44-B08C-43AB-BE5B-8C0EB9283150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935C3C44-B08C-43AB-BE5B-8C0EB9283150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBE4D74-642B-409B-B317-992DB78CB57E}
+	EndGlobalSection
+EndGlobal

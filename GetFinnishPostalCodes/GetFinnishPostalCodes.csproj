@@ -1,0 +1,21 @@
+﻿<!--
+  SPDX-License-Identifier: EUPL-1.2+
+
+  Copyleft © 2024 Eliezer - mailto:eliezer@programmer.net?subject=PostalCodes_FI
+  https://github.com/eliezer73/PostalCodes_FI
+  Licensed under the EUPL: https://joinup.ec.europa.eu/licence/european-union-public-licence-version-12-or-later-eupl
+-->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PostalCodes_FI\PostalCodes_FI.csproj" />
+  </ItemGroup>
+
+</Project>
